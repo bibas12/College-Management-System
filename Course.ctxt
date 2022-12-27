@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Course
+comment0.text=\r\n\ The\ class\ Course\ is\ created\ as\ the\ parent\ class\ along\ with\ four\ instance\ variables.\ The\ instance\ variables\ are\ Course\ ID,\ Course\ Name,\ Course\ Leader\ and\ Duration.\r\n\ \ \ The\ variables\ are\ assigned\ values\ by\ the\ constructor.\ Each\ variable\ is\ converted\ into\ parameters\ and\ getting\ called\ by\ using\ the\ accessors\ method\ which\ is\ also\ known\ \r\n\ \ \ as\ getters\ method.\ Since,\ the\ value\ wasn\u2019t\ assigned\ to\ the\ Course\ Leader\ the\ value\ was\ set\ and\ displayed\ using\ display\ method.\u0000\r\n\ @author\ (Bibas\ Bantawa\ Rai)\r\n\ @version\ (5/22/2021)\r\n
+comment1.params=CourseID\ CourseName\ Duration
+comment1.target=Course(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ A\ constructor\ is\ created\ with\ 4\ parameters\:....\r\n\ This\ construtor\ assigns\ value\ to\ instance\ variables.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCourseID()
+comment3.params=
+comment3.target=java.lang.String\ getCourseName()
+comment4.params=
+comment4.target=java.lang.String\ getCourseLeader()
+comment5.params=
+comment5.target=int\ getDuration()
+comment6.params=CourseLeader
+comment6.target=void\ setCourseLeader(java.lang.String)
+comment7.params=
+comment7.target=void\ display()
+numComments=8
